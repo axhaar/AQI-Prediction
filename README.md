@@ -1,4 +1,4 @@
-# Goal: Apply ML algorithms for AQI Prediction
+## Goal: Apply ML algorithms for AQI Prediction
 
 - Linear Regression (✔️)
 - Lasso Regression  (--in progress--)
