@@ -1,5 +1,4 @@
 __pycache__/
 .ipynb_checkpoints/
 test1.ipynb
-DecisionTreeRegressor.ipynb
-decision_regression_model.pkl
+KNNRegressor.ipynb
