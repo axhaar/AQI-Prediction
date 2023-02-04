@@ -161,7 +161,3 @@ if __name__=="__main__":
     plt.ylabel('PM 2.5')
     plt.legend(loc='upper right')
     plt.show()
-
-
-
-
