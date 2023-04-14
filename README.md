@@ -3,4 +3,5 @@
 - Linear Regression (✔️)
 - Lasso Regression  (✔️)
 - Decision Tree Regressor (✔️)
-- KNN Regressor (--in progress--)
+- KNN Regressor (✔️)
+- Random Forest Regressor (--in progress--)
